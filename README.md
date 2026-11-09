@@ -3,3 +3,4 @@ RaceDay Restful API - ASP.NET Core Web API for managing running, walking and cyc
 
 
 https://youtu.be/RvY1GMgVYeY
+https://studio.youtube.com/video/tBVhYa-F88A/edit
